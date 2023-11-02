@@ -1,1 +1,1 @@
-# deep_leatning
+# deep_learning
